@@ -26,8 +26,8 @@ Each article was given a dominant color, typically that of the product. Using th
 ![image](../images/creating_texture.gif)
 finding interesting textures in our photos and turning them into bitmaps is the basis of our abstract visuals.
 
-## THE COVER
-Our whole design culminated itself in our cover. 
+## A STRIKING COVER
+Our whole design culminated itself in a cover.
 
 ![image](../images/cover_showcase.png)
 ![image](../images/pages_animation.gif)
