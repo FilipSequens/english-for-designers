@@ -16,7 +16,7 @@ It was my task to design a series of layouts that will be able to accomodate our
 Wanting a clear visual hierarchy, we set up a simple typographic system. Our body type would be a neutral, readable font complimented by expressive display fonts used in headlines. These display fonts would vary by article, adding visual interest and matching the vibe of each article.
 I took up the taks of selecting a fitting body font. After careful consideration I arrived at inter, a neutral, fresh feeling font of the 21. century. Several paragraph styles were created with both readability and aesthetics in mind.
 
-![image](../images/working_ong_magazine.png)
+![image](../images/working_on_magazine.png)
 
 ## CONTRASTING COLOR & TEXTURE
 One thing was clear to us from the start, we wanted our magazine to attract attention. Using vibrant colors and interesting visuals was a way to achieve that. I created a set of bitmap images from our source photos. They reveal hidden patterns in various materials, creating abstract art pieces. These were then used throughout the issue, such as on the cover and before every article.
