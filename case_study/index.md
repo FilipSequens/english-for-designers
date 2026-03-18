@@ -24,6 +24,7 @@ One thing was clear to us from the start, we wanted our magazine to attract atte
 Each article was given a dominant color, typically that of the product. Using these throughout the article essentially color coded the magazine. From this, a system emerged. We repeated this color scheme on the cover, creating an index.
 
 ![image](../images/creating_texture.gif)
+finding interesting textures in our photos and turning them into bitmaps is the basis of our abstract visuals.
 
-##THE COVER
+## THE COVER
 Our whole design culminated itself in our cover. 
