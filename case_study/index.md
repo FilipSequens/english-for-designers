@@ -1,8 +1,9 @@
 # RE–FORM case study
 Creating unique designs in a world of factory manufacutring is a difficult task. Creators who design beyond what is already established drive the creative space forward. It was our task to curate examples of innovative product design and create a magazine that would celebrate it.
 
----
 ![image](../images/cover_photo.png)
+
+---
 ## BOLD YET VERSATILE – *the need for an accomodating system*	
 Having gathered source material for our articles, it became clear that the designs vary widely. Some are bold and experimental, others minimal and utilitarian. In order to create a unified design for our magazine we would need a system that would:
 -	Work well with content of different styles
