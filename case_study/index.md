@@ -10,7 +10,7 @@ Having gathered source material for our articles, it became clear that the desig
   
 It was my task to design a series of layouts that will be able to accomodate our needs. I created several layout variats that can be repeated with some variation throughout the magazine. These serve as a base that can be taken into any creative direction with a few adjustments.
 
-![image](../images/magazine_displayed_on_bookshelf.png)
+![image](../images/magazine_pages_animation.gif)
 
 ## INVISIBLE & EXPRESSIVE TYPE
 Wanting a clear visual hierarchy, we set up a simple typographic system. Our body type would be a neutral, readable font complimented by expressive display fonts used in headlines. These display fonts would vary by article, adding visual interest and matching the vibe of each article.
