@@ -17,7 +17,7 @@ Wanting a clear visual hierarchy, we set up a simple typographic system. Our bod
 I took up the taks of selecting a fitting body font. After careful consideration I arrived at inter, a neutral, fresh feeling font of the 21. century. Several paragraph styles were created with both readability and aesthetics in mind.
 
 ![image](../images/working_on_magazine.png)
-several versions were printed to ensure our designs worked just as well on paper as on our screens.
+Several versions were printed to ensure our designs worked well on paper.
 
 ## CONTRASTING COLOR & TEXTURE
 One thing was clear to us from the start, we wanted our magazine to attract attention. Using vibrant colors and interesting visuals was a way to achieve that. I created a set of bitmap images from our source photos. They reveal hidden patterns in various materials, creating abstract art pieces. These were then used throughout the issue, such as on the cover and before every article.
