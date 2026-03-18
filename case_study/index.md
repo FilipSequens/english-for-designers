@@ -29,5 +29,5 @@ finding interesting textures in our photos and turning them into bitmaps is the 
 ## THE COVER
 Our whole design culminated itself in our cover. 
 
-![image](../images/cover_showcase)
+![image](../images/cover_showcase.png)
 ![image](../images/pages_animation.gif)
