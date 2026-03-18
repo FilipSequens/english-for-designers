@@ -10,7 +10,6 @@ Having gathered source material for our articles, it became clear that the desig
   
 It was my task to design a series of layouts that will be able to accomodate our needs. I created several layout variats that can be repeated with some variation throughout the magazine. These serve as a base that can be taken into any creative direction with a few adjustments.
 
-![image](../images/magazine_pages_animation.gif)
 ![image](../images/pages_animation.gif)
 
 ## INVISIBLE & EXPRESSIVE TYPE
