@@ -22,10 +22,10 @@ Several versions were printed to ensure our designs worked well on paper.
 ## CONTRASTING COLOR & TEXTURE
 To create a striking design we used vibrant colors and interesting visuals. I created a set of bitmap images from our source photos. They reveal hidden patterns in various materials, creating abstract art pieces. These were then used throughout the issue as well as on the cover.
 
-Each article was given a dominant color, typically that of the product. Using these throughout the article essentially color coded the magazine. From this, a system emerged. We repeated this color scheme on the cover, creating an index.
-
 ![image](../images/creating_texture.gif)
 Turning interesting textures into bitmaps is the basis of our abstract visuals.
+
+Each article was given a dominant color, typically that of the product. Using these throughout the article essentially color coded the magazine. From this, a system emerged. We repeated this color scheme on the cover, creating an index.
 
 ## A STRIKING COVER
 Our whole design culminated itself in a cover.
