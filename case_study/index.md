@@ -9,7 +9,7 @@ Having gathered source material for our articles, it became clear that the desig
 -	Allows for some degree of customisation
 -	Still looks cohesive and contemporary
   
-It was my task to design a series of layouts that will be able to accomodate our needs. I created several layout variats that can be repeated with some variation throughout the magazine. These serve as a base that can be taken into any creative direction with a few adjustments.
+Turning this into a layout system was my task. I created several page layouts that can be repeated with some variation throughout the magazine. They are a base that can be taken into any creative direction with a few adjustments.
 
 
 ## INVISIBLE & EXPRESSIVE TYPE
