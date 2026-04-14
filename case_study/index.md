@@ -35,9 +35,9 @@ Our whole design culminated itself in a cover.
 
 ## RESULTS
 To test how customers would respond to our design, a small scale test was conducted. Issues of the magazine were passed around and we collected feedback. From the feedback we gathered the following kept being repeated:
--	the bitmap patterns were praised for giving the design an edge
--	each article having its own display font was well recieved
--	the colors stood out nicely
+-	the bitmap patterns gave the design an edge
+-	the cover stands out among other design focused megazines
+-	Each article having its own font was praised
 
 ### designer feedback
 A copy was also sent to several of the designers featured in the magazine, their feedback was also very positive and they welcomed further collaboration with RE–FORM. 
