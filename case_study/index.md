@@ -27,8 +27,12 @@ Turning interesting textures into bitmaps is the basis of our abstract visuals.
 
 Each article was given a dominant color, typically that of the product. Using these throughout the article essentially color coded the magazine. From this, a system emerged. We repeated this color scheme on the cover, creating an index.
 
-## A STRIKING COVER
+## A STRIKING COVER & PRODUCTION
 Our whole design culminated itself in a cover.
 
 ![image](../images/cover_showcase.png)
 ![image](../images/pages_animation.gif)
+
+## RESULTS
+To test how customers would respond to our design, a small scale test was conducted. Issues of the magazine were passed around and we collected feedback. 
+Overall our design was praised for being innovative and visually striking. A copy was also sent to several of the designers featured in the magazine, their feedback was also very positive and they welcomed further collaboration with RE–FORM.
