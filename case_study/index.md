@@ -34,5 +34,10 @@ Our whole design culminated itself in a cover.
 ![two images of a colorful magazine cover on a blank background and bookshelf](../images/cover_showcase.png)
 
 ## RESULTS
-To test how customers would respond to our design, a small scale test was conducted. Issues of the magazine were passed around and we collected feedback. 
-Overall our design was praised for being innovative and visually striking. A copy was also sent to several of the designers featured in the magazine, their feedback was also very positive and they welcomed further collaboration with RE–FORM.
+To test how customers would respond to our design, a small scale test was conducted. Issues of the magazine were passed around and we collected feedback. From the feedback we gathered the following kept being repeated:
+-	the bitmap patterns were praised for giving the design an edge
+-	each article having its own display font was well recieved
+-	the colors stood out nicely
+
+### designer feedback
+A copy was also sent to several of the designers featured in the magazine, their feedback was also very positive and they welcomed further collaboration with RE–FORM. 
