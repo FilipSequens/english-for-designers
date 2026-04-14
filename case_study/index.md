@@ -1,6 +1,6 @@
 ![a site header showing a couple of visualy striking magazine pages](../images/case_study_header.png)
 
-### THE TASK
+### The task :memo:
 Creating unique designs in a world of factory manufacutring is a difficult task. Creators who design beyond what is already established drive the creative space forward. It was our task to curate examples of innovative product design and create a magazine that would celebrate it.
 
 ## BOLD YET VERSATILE – *the need for an accomodating system*	
