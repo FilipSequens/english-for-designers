@@ -28,8 +28,8 @@ Turning interesting textures into bitmaps is the basis of our abstract visuals.
 
 Each article was given a dominant color, typically that of the product. Using these throughout the article essentially color coded the magazine. From this, a system emerged. We repeated this color scheme on the cover, creating an index.
 
-## A STRIKING COVER & PRODUCTION
-Our whole design culminated itself in a cover.
+## A STRIKING COVER & PRINTING
+Our whole design culminated itself in a cover. The cover utilises all the techniques used throughout the issue. The colors and the bitmaps are mixed to create a design that's cohesive with the rest of the issue. 
 
 ![two images of a colorful magazine cover on a blank background and bookshelf](../images/cover_showcase.png)
 
