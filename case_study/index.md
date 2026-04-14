@@ -10,6 +10,7 @@ Having gathered source material for our articles, it became clear that the desig
   
 Turning this into a layout system was my task. I created several page layouts that can be repeated with some variation throughout the magazine. They are a base that can be taken into any creative direction with a few adjustments.
 
+![image](../images/pages_animation.gif)
 
 ## INVISIBLE & EXPRESSIVE TYPE
 Wanting a clear visual hierarchy, we set up a simple typographic system. Our body type would be a neutral, readable font complimented by expressive display fonts used in headlines. These display fonts would vary by article, adding visual interest and matching the vibe of each article.
@@ -30,7 +31,6 @@ Each article was given a dominant color, typically that of the product. Using th
 Our whole design culminated itself in a cover.
 
 ![image](../images/cover_showcase.png)
-![image](../images/pages_animation.gif)
 
 ## RESULTS
 To test how customers would respond to our design, a small scale test was conducted. Issues of the magazine were passed around and we collected feedback. 
