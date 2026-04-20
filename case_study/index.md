@@ -11,7 +11,7 @@ Having gathered source material for our articles, it became clear that the desig
   
 Turning this into a layout system was my task. I created several page layouts that can be repeated with some variation throughout the magazine. They are a base that can be taken into any creative direction with a few adjustments.
 
-![gif animation switching between a dozen magazine spreads](../images/pages_animation.gif)
+![gif animation switching between a dozen magazine spreads](../images/two_spreads_animation.gif)
 
 ## INVISIBLE & EXPRESSIVE TYPE
 Wanting a clear visual hierarchy, we set up a simple typographic system. Our body type would be a neutral, readable font complimented by expressive display fonts used in headlines. These display fonts would vary by article, adding visual interest and matching the vibe of each article.
