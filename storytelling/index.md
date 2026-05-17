@@ -16,8 +16,11 @@ As the scope of the project grew, so did my worries. At times, things did go wro
 ![gif animation switching between a dozen magazine spreads](../images/two_spreads_animation.gif)
 
 ## THE PASSION BEHIND THE PROJECT
-Wanting a clear visual hierarchy, we set up a simple typographic system. Our body type would be a neutral, readable font complimented by expressive display fonts used in headlines. These display fonts would vary by article, adding visual interest and matching the vibe of each article.
-I took up the taks of selecting a fitting body font. After careful consideration I arrived at inter, a neutral, fresh feeling font of the 21. century. Several paragraph styles were created with both readability and aesthetics in mind.
+I was fascinated by the ocean ever since I was little. Coming from a landlocked country paints the sea as something rare, something you maybe get to visit once a year for vacation. This just makes it that more alluring.
+
+Things have changed since I was a kid, some for the better – I've had the privilege of travelling to far away places. I could finally explore the colorful reefs of the indopacific. Underneath the surface was a world so unlike anything on land – swaying coral, colorful schools of fish and gentle giants that demand respect. 
+
+Some things however, have changed for the worse. 
 
 ![two images showing the process of type setting, with printed proofs and notes](../images/working_on_magazine.png)
 Several versions were printed to ensure our designs worked well on paper.
