@@ -43,7 +43,8 @@ Creating 3d art notoriously is tough. The required workflows are convoluted and 
 
 Animating these models and giving each one of them a hand draw texture proved to be just as tough. Both of these processes were essential in giving these animals life. Here, having seen these animals while diving was incredibly helpful. Having pushed through I ended up with animals that not only look pretty, but also feel alive.
 
-![a site header showing a couple of visualy striking magazine pages](../images/stingray_in_3d_software.png)
+![a site header showing a couple of visualy striking magazine pages](../images/turtle_animation_software.png)
+the complex process of animating a turtle, curves used for smooth cyclic swimming motion
 
 ### programming
 As an artist, I had a clear vision of what I wanted my game to look like. It was making this concept actually work that proved to be the hardest challenge. I am not alone in that, a large chunk of indie game devs start with a clear artistic vision, and then they struggle to make it work technically.
