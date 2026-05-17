@@ -1,4 +1,4 @@
-[return](/)
+[return](../)
 
 ![in game photo, school of stingrays gently gliding in the open sea](../images/header_stringray_background.png)
 
