@@ -4,16 +4,18 @@
 It has been exactly a year since I began working on a project that helped me follow my dream. In this year I learned the importance of personal work - projects that drive us forward, projects that tell the world who we are. As the project nears completion, all the hard work that went into it starts to show. 
 
 ## MY (*OVERLY*)	AMBITIOUS PROJECT
-Having gathered source material for our articles, it became clear that the designs vary widely. Some are bold and experimental, others minimal and utilitarian. In order to create a unified design for our magazine we would need a system that:
--	Works well with content of different styles
--	Allows for some degree of customisation
--	Still looks cohesive and contemporary
-  
-Turning this into a layout system was my task. I created several page layouts that can be repeated with some variation throughout the magazine. They are a base that can be taken into any creative direction with a few adjustments.
+With a deep appreciation for the world's oceans, I began developing an indie game. This game, through its immersiveness, would allow to see the ocean from my perspective – a stunning place worth protecting. It became clear that this was a difficult task, as game development demands knowledge of various fields, such as:
+
+-	3d art and animation
+-	programming and optimisation 
+-	gamification
+-	sound design, marketing, etc.
+
+As the scope of the project grew, so did my worries. At times, things did go wrong, stuff broke. As I pushed through though, I realised that the thing that kept me going was the passion behind this project. The drive allowed me to keep going and accomplish things that seemed impossible just a year ago.
 
 ![gif animation switching between a dozen magazine spreads](../images/two_spreads_animation.gif)
 
-## INVISIBLE & EXPRESSIVE TYPE
+## THE PASSION BEHIND THE PROJECT
 Wanting a clear visual hierarchy, we set up a simple typographic system. Our body type would be a neutral, readable font complimented by expressive display fonts used in headlines. These display fonts would vary by article, adding visual interest and matching the vibe of each article.
 I took up the taks of selecting a fitting body font. After careful consideration I arrived at inter, a neutral, fresh feeling font of the 21. century. Several paragraph styles were created with both readability and aesthetics in mind.
 
