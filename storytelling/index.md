@@ -16,6 +16,7 @@ As the scope of the project grew, so did my worries. At times, things did go wro
 In its final form, the game is an immersive and relaxing experience, where you learn about various aquatic ecosystems by exploring them.
 
 ![in game photo of a turqoise coral lagoon off the coast of a lush tropical island](../images/island_photo.png)
+*a shallow coral lagoon, one of the explorable regions in the game*
 
 ## THE PASSION BEHIND THE PROJECT
 I was fascinated by the ocean ever since I was little. Coming from a landlocked country paints the sea as something rare, something you maybe get to visit once a year for vacation. This just makes it that more alluring.
@@ -38,7 +39,7 @@ game dev requires learning a large number of skills, skills that are hard to lea
 ### 3d art and animation
 Creating 3d art notoriously is tough. The required workflows are convoluted and the infamously complex 3d programs do not help. It is that way for a reason though. While 3d art is hard to setup, once you do so it can be very flexible. For my game, I recreated a number of marine animals as well as foliage, starting out with simple shapes and then adding complexity. 
 
-![steps of a stingray being modeled from a simple shape inside 3d modelling software](../images/stingray_in_3d_software.png)
+![steps of a stingray being modeled from a simple diamond shape inside a 3d modelling software](../images/stingray_in_3d_software.png)
 ![real life photo of a reef shark compared to a stylised in game model](../images/shark_real_comparison.png)
 *3d modeling of a stingray, comparison of a real shark vs. stylised illustration in game*
 
