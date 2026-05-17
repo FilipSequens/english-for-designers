@@ -13,6 +13,8 @@ With a deep appreciation for the world's oceans, I dreamed of developing an indi
 
 As the scope of the project grew, so did my worries. At times, things did go wrong, stuff broke. As I pushed through though, I realised that the thing that kept me going was the passion behind this project. The drive allowed me to keep going and accomplish things that seemed impossible just a year ago.
 
+In its final form, the game is an immersive and relaxing experience, where you learn about various aquatic ecosystems by exploring them.
+
 ![gif animation switching between a dozen magazine spreads](../images/two_spreads_animation.gif)
 
 ## THE PASSION BEHIND THE PROJECT
