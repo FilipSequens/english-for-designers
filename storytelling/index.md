@@ -26,10 +26,9 @@ Things have changed since I was a kid, some for the better – I've had the priv
 
 Some things however, have changed for the worse. Climate change is not some abstract concept anymore, I've seen dead coral reefs first-hand. The sight of white coral skeletons is a shocking one. The world's most vibrant and lively ecosystems are the first ones to be affected by this crisis. It is this fact, that drove me to create this project. 
 
-I find tropical seas to be the most stunning places on Earth, and the threats they face mean that we need to value them that much more. 
-
 ![two images showing the process of type setting, with printed proofs and notes](../images/working_on_magazine.png)
-Several versions were printed to ensure our designs worked well on paper.
+
+I find tropical seas to be the most stunning places on Earth, and the threats they face mean that we need to value them that much more. 
 
 ## LEARNING THROUGH BEING CHALLENGED
 game dev requires learning a large number of skills, skills that are hard to learn without strong motivation
