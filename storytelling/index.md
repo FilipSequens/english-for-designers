@@ -22,7 +22,7 @@ I was fascinated by the ocean ever since I was little. Coming from a landlocked 
 
 Things have changed since I was a kid, some for the better – I've had the privilege of travelling to far away places. I could finally explore the colorful reefs of the indopacific. Underneath the surface was a world so unlike anything on land – swaying coral, colorful schools of fish and gentle giants that demand respect. 
 
-![a site header showing a couple of visualy striking magazine pages](../images/images/dive_trip_photo.png)
+![a site header showing a couple of visualy striking magazine pages](../images/dive_trip_photo.png)
 
 Some things however, have changed for the worse. Climate change is not some abstract concept anymore, I've seen dead coral reefs first-hand. The sight of white coral skeletons is a shocking one. The world's most vibrant and lively ecosystems are the first ones to be affected by this crisis. It is this fact, that drove me to create this project. 
 
