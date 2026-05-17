@@ -40,16 +40,18 @@ As an artist, I had a clear vision of what I wanted my game to look like. It was
 
 In this case, it really was about pure hard work. Tons of reading about the visual coding language. Hours spent looking at my game engine's help forums. And while no part of this process was easy for me, I managed to make the game work decently well. And here I really see the importance of a personal passion project. The drive allowed me to work with something I'm completely new to and not very good at.
 
-## A STRIKING COVER & PRINTING
-Our whole design culminated itself in a cover. The cover utilises all the techniques used throughout the issue. The colors and the bitmaps are mixed to create a design that's cohesive with the rest of the issue. 
+## MISTAKES ARE A PART OF THE PROCESS
+Looking back at the last year, the whole process was filled with many mistakes. Most small, only some game breaking. There were harder periods when I struggled with some aspect for a longer time. But at no point did I ever consider giving up.
+
+*Having a personal investment in this project is a key, it kept me focused.*
 
 ![two images of a colorful magazine cover on a blank background and bookshelf](../images/cover_showcase.png)
 
-## RESULTS
-To test how customers would respond to our design, a small scale test was conducted. Issues of the magazine were passed around and we collected feedback. From the feedback we gathered the following kept being repeated:
--	the bitmap patterns gave the design an edge
--	the cover stands out among other design focused megazines
--	Each article having its own font was praised
+## WHAT'S NEXT?
+At this point, a year into the project, I can look back and really appreciate what I've accomplished. The game is nearing a state where I can publish a demo version and start promoting it.
 
-### designer feedback
-A copy was also sent to several of the designers featured in the magazine, their feedback was also very positive and they welcomed further collaboration with RE–FORM. 
+I had a few friend play the game and seeing them genuinely enjoy exploring my underwater world is a priceless feeling. 
+This feeling makes every single hurdle along the way worth it. 
+Thank you for reading.
+
+Wondering about the state of the project? [Check out its channel.](https://www.youtube.com/@mano_the_game).
