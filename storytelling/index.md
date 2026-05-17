@@ -3,7 +3,7 @@
 ### THE NEED FOR PASSION PROJECTS
 It has been exactly a year since I began working on a project that helped me follow my dream. In this year I learned the importance of personal work - projects that drive us forward, projects that tell the world who we are. As the project nears completion, all the hard work that went into it starts to show. 
 
-## MY (*VERLY*)	AMBITIOUS PROJECT
+## MY (*OVERLY*)	AMBITIOUS PROJECT
 Having gathered source material for our articles, it became clear that the designs vary widely. Some are bold and experimental, others minimal and utilitarian. In order to create a unified design for our magazine we would need a system that:
 -	Works well with content of different styles
 -	Allows for some degree of customisation
