@@ -52,4 +52,6 @@ At this point, a year into the project, I can look back and really appreciate wh
 
 This feeling makes every single hurdle along the way worth it.<br>Thank you for reading.
 
+---
+
 Wondering about the state of the project? [Check out its channel.](https://www.youtube.com/@mano_the_game).
