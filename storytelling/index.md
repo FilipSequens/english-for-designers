@@ -37,7 +37,12 @@ game dev requires learning a large number of skills, skills that are hard to lea
 ### 3d art and animation
 Creating 3d art notoriously is tough. The required workflows are convoluted and the infamously complex 3d programs do not help. It is that way for a reason though. While 3d art is hard to setup, once you do so it can be very flexible. For my game, I recreated a number of marine animals as well as foliage, starting out with simple shapes and then adding complexity. 
 
+![a site header showing a couple of visualy striking magazine pages](../images/stingray_in_3d_software.png)
+![a site header showing a couple of visualy striking magazine pages](../images/shark_real_comparison.png)
+
 Animating these models and giving each one of them a hand draw texture proved to be just as tough. Both of these processes were essential in giving these animals life. Here, having seen these animals while diving was incredibly helpful. Having pushed through I ended up with animals that not only look pretty, but also feel alive.
+
+![a site header showing a couple of visualy striking magazine pages](../images/stingray_in_3d_software.png)
 
 ### programming
 As an artist, I had a clear vision of what I wanted my game to look like. It was making this concept actually work that proved to be the hardest challenge. I am not alone in that, a large chunk of indie game devs start with a clear artistic vision, and then they struggle to make it work technically.
