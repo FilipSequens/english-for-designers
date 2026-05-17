@@ -20,7 +20,9 @@ I was fascinated by the ocean ever since I was little. Coming from a landlocked 
 
 Things have changed since I was a kid, some for the better – I've had the privilege of travelling to far away places. I could finally explore the colorful reefs of the indopacific. Underneath the surface was a world so unlike anything on land – swaying coral, colorful schools of fish and gentle giants that demand respect. 
 
-Some things however, have changed for the worse. 
+Some things however, have changed for the worse. Climate change is not some abstract concept anymore, I've seen dead coral reefs first-hand. The sight of white coral skeletons is a shocking one. The world's most vibrant and lively ecosystems are the first ones to be affected by this crisis. It is this fact, that drove me to create this project. 
+
+I find tropical seas to be the most stunning places on Earth, and the threats they face mean that we need to value them that much more. 
 
 ![two images showing the process of type setting, with printed proofs and notes](../images/working_on_magazine.png)
 Several versions were printed to ensure our designs worked well on paper.
