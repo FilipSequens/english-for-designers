@@ -15,7 +15,7 @@ As the scope of the project grew, so did my worries. At times, things did go wro
 
 In its final form, the game is an immersive and relaxing experience, where you learn about various aquatic ecosystems by exploring them.
 
-![gif animation switching between a dozen magazine spreads](../images/two_spreads_animation.gif)
+![in game photo of a turqoise coral lagoon off the coast of a lush tropical island](../images/island_photo.png)
 
 ## THE PASSION BEHIND THE PROJECT
 I was fascinated by the ocean ever since I was little. Coming from a landlocked country paints the sea as something rare, something you maybe get to visit once a year for vacation. This just makes it that more alluring.
