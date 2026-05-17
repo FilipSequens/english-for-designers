@@ -4,7 +4,7 @@
 It has been exactly a year since I began working on a project that helped me follow my dream. In this year I learned the importance of personal work - projects that drive us forward, projects that tell the world who we are. As the project nears completion, all the hard work that went into it starts to show. 
 
 ## MY (*OVERLY*)	AMBITIOUS PROJECT
-With a deep appreciation for the world's oceans, I began developing an indie game. This game, through its immersiveness, would allow to see the ocean from my perspective – a stunning place worth protecting. It became clear that this was a difficult task, as game development demands knowledge of various fields, such as:
+With a deep appreciation for the world's oceans, I dreamed of developing an indie game that would, through its immersiveness, allow others to see the ocean from my perspective – a stunning ecosystem worth protecting. It became clear that this was a difficult task, as game development demands knowledge of various fields, such as:
 
 -	3d art and animation
 -	programming and optimisation 
