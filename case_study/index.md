@@ -1,4 +1,4 @@
-[return](/)
+[return](../)
 
 ![a site header showing a couple of visualy striking magazine pages](../images/case_study_header.png)
 
