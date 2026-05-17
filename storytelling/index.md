@@ -1,6 +1,6 @@
 ![a site header showing a couple of visualy striking magazine pages](../images/header_stingray_background.png)
 
-### THE NEED FOR PASSION PROJECTS
+# THE NEED FOR PASSION PROJECTS
 It has been exactly a year since I began working on a project that helped me follow my dream. In this year I learned the importance of personal work - projects that drive us forward, projects that tell the world who we are. As the project nears completion, all the hard work that went into it starts to show. 
 
 ## MY (*OVERLY*)	AMBITIOUS PROJECT
@@ -30,7 +30,7 @@ Several versions were printed to ensure our designs worked well on paper.
 ## LEARNING THROUGH BEING CHALLENGED
 game dev requires learning a large number of skills, skills that are hard to learn without strong motivation
 
-# 3d art and animation
+### 3d art and animation
 To create a striking design we used vibrant colors and interesting visuals. I created a set of bitmap images from our source photos. They reveal hidden patterns in various materials, creating abstract art pieces. These were then used throughout the issue as well as on the cover.
 
 ![gif animation showing images being turned into abstract bitmap patterns](../images/creating_texture.gif)
