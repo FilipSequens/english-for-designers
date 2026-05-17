@@ -9,3 +9,4 @@ take a look
 
 - [Case study](case_study)
 - [Storytelling](storytelling)
+- [Today I learned](today_i_learned)
