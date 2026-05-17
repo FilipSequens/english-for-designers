@@ -31,12 +31,14 @@ Several versions were printed to ensure our designs worked well on paper.
 game dev requires learning a large number of skills, skills that are hard to learn without strong motivation
 
 ### 3d art and animation
-To create a striking design we used vibrant colors and interesting visuals. I created a set of bitmap images from our source photos. They reveal hidden patterns in various materials, creating abstract art pieces. These were then used throughout the issue as well as on the cover.
+Creating 3d art notoriously is tough. The required workflows are convoluted and the infamously complex 3d programs do not help. It is that way for a reason though. While 3d art is hard to setup, once you do so it can be very flexible. For my game, I recreated a number of marine animals as well as foliage, starting out with simple shapes and then adding complexity. 
 
-![gif animation showing images being turned into abstract bitmap patterns](../images/creating_texture.gif)
-Turning interesting textures into bitmaps is the basis of our abstract visuals.
+Animating these models and giving each one of them a hand draw texture proved to be just as tough. Both of these processes were essential in giving these animals life. Here, having seen these animals while diving was incredibly helpful. Having pushed through I ended up with animals that not only look pretty, but also feel alive.
 
-Each article was given a dominant color, typically that of the product. Using these throughout the article essentially color coded the magazine. From this, a system emerged. We repeated this color scheme on the cover, creating an index.
+### programming
+As an artist, I had a clear vision of what I wanted my game to look like. It was making this concept actually work that proved to be the hardest challenge. I am not alone in that, a large chunk of indie game devs start with a clear artistic vision, and then they struggle to make it work technically.
+
+In this case, it really was about pure hard work. Tons of reading about the visual coding language. Hours spent looking at my game engine's help forums. And while no part of this process was easy for me, I managed to make the game work decently well. And here I really see the importance of a personal passion project. The drive allowed me to work with something I'm completely new to and not very good at.
 
 ## A STRIKING COVER & PRINTING
 Our whole design culminated itself in a cover. The cover utilises all the techniques used throughout the issue. The colors and the bitmaps are mixed to create a design that's cohesive with the rest of the issue. 
