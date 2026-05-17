@@ -1,6 +1,6 @@
 [return](../)
 
-![film being loaded into a vintage camera, analog photo of Prague from underneath a bridge](../film_photography.png)
+![film being loaded into a vintage camera, analog photo of Prague from underneath a bridge](../images/film_photography.png)
 
 ## TODAY I LEARNED ABOUT KEEPING IN TOUCH WITH OUR PAST
 
