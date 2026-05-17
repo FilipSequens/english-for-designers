@@ -27,7 +27,7 @@ I find tropical seas to be the most stunning places on Earth, and the threats th
 ![two images showing the process of type setting, with printed proofs and notes](../images/working_on_magazine.png)
 Several versions were printed to ensure our designs worked well on paper.
 
-## CONTRASTING COLOR & TEXTURE
+## LEARNING THROUGH BEING CHALLENGED
 To create a striking design we used vibrant colors and interesting visuals. I created a set of bitmap images from our source photos. They reveal hidden patterns in various materials, creating abstract art pieces. These were then used throughout the issue as well as on the cover.
 
 ![gif animation showing images being turned into abstract bitmap patterns](../images/creating_texture.gif)
