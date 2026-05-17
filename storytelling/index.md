@@ -1,4 +1,4 @@
-![a site header showing a couple of visualy striking magazine pages](../images/images/header_stringray_background.png)
+![a site header showing a couple of visualy striking magazine pages](../images/header_stringray_background.png)
 
 # THE NEED FOR PASSION PROJECTS
 It has been exactly a year since I began working on a project that helped me follow my dream. In this year I learned the importance of personal work - projects that drive us forward, projects that tell the world who we are. As the project nears completion, all the hard work that went into it starts to show. 
