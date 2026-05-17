@@ -23,11 +23,12 @@ I was fascinated by the ocean ever since I was little. Coming from a landlocked 
 Things have changed since I was a kid, some for the better – I've had the privilege of travelling to far away places. I could finally explore the colorful reefs of the indopacific. Underneath the surface was a world so unlike anything on land – swaying coral, colorful schools of fish and gentle giants that demand respect. 
 
 ![photos from a dive trip showing exotic fauna and flora, colorful anemone with clownfish, tropical flowers](../images/dive_trip_photo.png)
+*personal photos from a recent diving trip*
 
 Some things however, have changed for the worse. Climate change is not some abstract concept anymore, I've seen dead coral reefs first-hand. The sight of white coral skeletons is a shocking one. The world's most vibrant and lively ecosystems are the first ones to be affected by this crisis. It is this fact, that drove me to create this project. 
 
 ![wide angle photo of a bleached coral reef, endless stetch of white coral skeletons](../images/bleached_reef.png)
-a reef experiencing bleaching - a stress response to heat
+*a reef experiencing bleaching - a stress response to heat*
 
 I find tropical seas to be the most stunning places on Earth, and the threats they face mean that we need to value them that much more. 
 
@@ -39,12 +40,12 @@ Creating 3d art notoriously is tough. The required workflows are convoluted and 
 
 ![steps of a stingray being modeled from a simple shape inside 3d modelling software](../images/stingray_in_3d_software.png)
 ![real life photo of a reef shark compared to a stylised in game model](../images/shark_real_comparison.png)
-3d modeling of a stingray, comparison of a real shark vs. stylised illustration in game
+*3d modeling of a stingray, comparison of a real shark vs. stylised illustration in game*
 
 Animating these models and giving each one of them a hand draw texture proved to be just as tough. Both of these processes were essential in giving these animals life. Here, having seen these animals while diving was incredibly helpful. Having pushed through I ended up with animals that not only look pretty, but also feel alive.
 
 ![screenshot of an animation setup for a sea turtle inside 3d software](../images/turtle_animation_software.png)
-the complex process of animating a turtle, curves used for smooth cyclic swimming motion
+*the complex process of animating a turtle, curves used for smooth cyclic swimming motion*
 
 ### programming
 As an artist, I had a clear vision of what I wanted my game to look like. It was making this concept actually work that proved to be the hardest challenge. I am not alone in that, a large chunk of indie game devs start with a clear artistic vision, and then they struggle to make it work technically.
