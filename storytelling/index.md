@@ -55,6 +55,9 @@ As an artist, I had a clear vision of what I wanted my game to look like. It was
 
 In this case, it really was about pure hard work. Tons of reading about the visual coding language. Hours spent looking at my game engine's help forums. And while no part of this process was easy for me, I managed to make the game work decently well. And here I really see the importance of a personal passion project. The drive allowed me to work with something I'm completely new to and not very good at.
 
+![screenshot showing complex node setup inside unreal engine 5](../images/visual_coding.png)
+*visual coding system, setup for a camera interaction*
+
 ## MISTAKES ARE A PART OF THE PROCESS
 Looking back at the last year, the whole process was filled with many mistakes. Most small, only some game breaking. There were harder periods when I struggled with some aspect for a longer time. But at no point did I ever consider giving up.
 
