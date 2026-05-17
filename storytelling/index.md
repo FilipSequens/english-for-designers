@@ -48,11 +48,8 @@ Looking back at the last year, the whole process was filled with many mistakes. 
 ![two images of a colorful magazine cover on a blank background and bookshelf](../images/cover_showcase.png)
 
 ## WHAT'S NEXT?
-At this point, a year into the project, I can look back and really appreciate what I've accomplished. The game is nearing a state where I can publish a demo version and start promoting it.
+At this point, a year into the project, I can look back and really appreciate what I've accomplished. The game is nearing a state where I can publish a demo version and start promoting it. I had a few friend play the game and seeing them genuinely enjoy exploring my underwater world is a priceless feeling. 
 
-I had a few friend play the game and seeing them genuinely enjoy exploring my underwater world is a priceless feeling. 
-
-This feeling makes every single hurdle along the way worth it. 
-Thank you for reading.
+This feeling makes every single hurdle along the way worth it. Thank you for reading.
 
 Wondering about the state of the project? [Check out its channel.](https://www.youtube.com/@mano_the_game).
