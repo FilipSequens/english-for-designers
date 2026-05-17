@@ -39,6 +39,7 @@ Creating 3d art notoriously is tough. The required workflows are convoluted and 
 
 ![a site header showing a couple of visualy striking magazine pages](../images/stingray_in_3d_software.png)
 ![a site header showing a couple of visualy striking magazine pages](../images/shark_real_comparison.png)
+3d modeling of a stingray, comparison of a real shark vs. stylised illustration in game
 
 Animating these models and giving each one of them a hand draw texture proved to be just as tough. Both of these processes were essential in giving these animals life. Here, having seen these animals while diving was incredibly helpful. Having pushed through I ended up with animals that not only look pretty, but also feel alive.
 
