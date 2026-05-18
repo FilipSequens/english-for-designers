@@ -70,4 +70,4 @@ This feeling makes every single hurdle along the way worth it.<br>Thank you for 
 
 ---
 
-Wondering about the state of the project? [Check out its channel.](https://www.youtube.com/@mano_the_game).
+Interested in the state of the project? [Check out the channel](https://www.youtube.com/@mano_the_game).
