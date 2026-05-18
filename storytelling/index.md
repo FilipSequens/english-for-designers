@@ -39,7 +39,7 @@ I find tropical seas to be the most stunning places on Earth, and the threats th
 game dev requires learning a large number of skills, skills that are hard to learn without strong motivation
 
 ### 3d art and animation
-Creating 3d art notoriously is tough. The required workflows are convoluted and the infamously complex 3d programs do not help. It is that way for a reason though. While 3d art is hard to setup, once you do so it can be very flexible. For my game, I recreated a number of marine animals as well as foliage, starting out with simple shapes and then adding complexity. 
+Creating 3d art is notoriously tough. The required workflows are convoluted and the infamously complex 3d programs do not help. It is that way for a reason though. While 3d art is hard to setup, once you do so it can be very flexible. For my game, I recreated a number of marine animals as well as foliage, starting out with simple shapes and then adding complexity. 
 
 ![steps of a stingray being modeled from a simple diamond shape inside a 3d modelling software](../images/stingray_in_3d_software.png)
 ![real life photo of a reef shark compared to a stylised in game model](../images/shark_real_comparison.png)
